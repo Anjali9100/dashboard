@@ -22,9 +22,10 @@
 			<div class="menu_box">
 				<ul>
 					<li><i class="fa fa-home"></i><a href="" class="menu_text">Home</a></li>
-					<li><i class="fa fa-car"></i><a href="" class="menu_text">hjghggj</a></li>
-					<li><i class="fa fa-bars"></i><a href="" class="menu_text">ghgjh</a></li>
-					<li><i class="fa fa-bars"></i><a href="" class="menu_text">gguygyu</a></li>
+					<li><i class="fa fa-car"></i><a href="" class="menu_text">About Us</a></li>
+					<li><i class="fa fa-bars"></i><a href="" class="menu_text">Services</a></li>
+					<li><i class="fa fa-bars"></i><a href="" class="menu_text">Gallery</a></li>
+					<li><i class="fa fa-bars"></i><a href="" class="menu_text">Contact</a></li>
 				</ul>
 			</div>			 
 		</div>
